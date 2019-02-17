@@ -215,7 +215,8 @@ button {
   bottom: -1px;
   z-index: 3;
   width: 100%;
-  height: 3.9285714286rem; }
+  height: 3.9285714286rem;
+  box-shadow: 0 -1px 0.7142857143rem rgba(0, 0, 0, 0.7); }
 
 .btnFixBottom .btnFixBox {
   width: 100%;
